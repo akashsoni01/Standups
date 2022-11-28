@@ -7,59 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FF2817362934ECA5008FC765 /* StandupsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2817352934ECA5008FC765 /* StandupsApp.swift */; };
-		FF28173A2934ECA6008FC765 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF2817392934ECA6008FC765 /* Assets.xcassets */; };
-		FF28173D2934ECA6008FC765 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF28173C2934ECA6008FC765 /* Preview Assets.xcassets */; };
-		FF2817472934ECA6008FC765 /* StandupsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2817462934ECA6008FC765 /* StandupsTests.swift */; };
-		FF2817512934ECA6008FC765 /* StandupsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2817502934ECA6008FC765 /* StandupsUITests.swift */; };
-		FF2817532934ECA6008FC765 /* StandupsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2817522934ECA6008FC765 /* StandupsUITestsLaunchTests.swift */; };
+		FF2817772934F19E008FC765 /* StandupsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2817762934F19E008FC765 /* StandupsApp.swift */; };
+		FF2817792934F19E008FC765 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2817782934F19E008FC765 /* ContentView.swift */; };
+		FF28177B2934F19F008FC765 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF28177A2934F19F008FC765 /* Assets.xcassets */; };
+		FF28177E2934F19F008FC765 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF28177D2934F19F008FC765 /* Preview Assets.xcassets */; };
+		FF2817882934F19F008FC765 /* StandupsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2817872934F19F008FC765 /* StandupsTests.swift */; };
+		FF2817922934F19F008FC765 /* StandupsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2817912934F19F008FC765 /* StandupsUITests.swift */; };
+		FF2817942934F19F008FC765 /* StandupsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2817932934F19F008FC765 /* StandupsUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		FF2817432934ECA6008FC765 /* PBXContainerItemProxy */ = {
+		FF2817842934F19F008FC765 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FF28172A2934ECA5008FC765 /* Project object */;
+			containerPortal = FF28176B2934F19E008FC765 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FF2817312934ECA5008FC765;
+			remoteGlobalIDString = FF2817722934F19E008FC765;
 			remoteInfo = Standups;
 		};
-		FF28174D2934ECA6008FC765 /* PBXContainerItemProxy */ = {
+		FF28178E2934F19F008FC765 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FF28172A2934ECA5008FC765 /* Project object */;
+			containerPortal = FF28176B2934F19E008FC765 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FF2817312934ECA5008FC765;
+			remoteGlobalIDString = FF2817722934F19E008FC765;
 			remoteInfo = Standups;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FF2817322934ECA5008FC765 /* Standups.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Standups.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FF2817352934ECA5008FC765 /* StandupsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandupsApp.swift; sourceTree = "<group>"; };
-		FF2817392934ECA6008FC765 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FF28173C2934ECA6008FC765 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		FF2817422934ECA6008FC765 /* StandupsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StandupsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		FF2817462934ECA6008FC765 /* StandupsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandupsTests.swift; sourceTree = "<group>"; };
-		FF28174C2934ECA6008FC765 /* StandupsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StandupsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		FF2817502934ECA6008FC765 /* StandupsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandupsUITests.swift; sourceTree = "<group>"; };
-		FF2817522934ECA6008FC765 /* StandupsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandupsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FF2817732934F19E008FC765 /* Standups.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Standups.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF2817762934F19E008FC765 /* StandupsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandupsApp.swift; sourceTree = "<group>"; };
+		FF2817782934F19E008FC765 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FF28177A2934F19F008FC765 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FF28177D2934F19F008FC765 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FF2817832934F19F008FC765 /* StandupsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StandupsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF2817872934F19F008FC765 /* StandupsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandupsTests.swift; sourceTree = "<group>"; };
+		FF28178D2934F19F008FC765 /* StandupsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StandupsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF2817912934F19F008FC765 /* StandupsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandupsUITests.swift; sourceTree = "<group>"; };
+		FF2817932934F19F008FC765 /* StandupsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandupsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FF28172F2934ECA5008FC765 /* Frameworks */ = {
+		FF2817702934F19E008FC765 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF28173F2934ECA6008FC765 /* Frameworks */ = {
+		FF2817802934F19F008FC765 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF2817492934ECA6008FC765 /* Frameworks */ = {
+		FF28178A2934F19F008FC765 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -69,57 +71,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FF2817292934ECA5008FC765 = {
+		FF28176A2934F19E008FC765 = {
 			isa = PBXGroup;
 			children = (
-				FF2817342934ECA5008FC765 /* Standups */,
-				FF2817452934ECA6008FC765 /* StandupsTests */,
-				FF28174F2934ECA6008FC765 /* StandupsUITests */,
-				FF2817332934ECA5008FC765 /* Products */,
+				FF2817752934F19E008FC765 /* Standups */,
+				FF2817862934F19F008FC765 /* StandupsTests */,
+				FF2817902934F19F008FC765 /* StandupsUITests */,
+				FF2817742934F19E008FC765 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FF2817332934ECA5008FC765 /* Products */ = {
+		FF2817742934F19E008FC765 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FF2817322934ECA5008FC765 /* Standups.app */,
-				FF2817422934ECA6008FC765 /* StandupsTests.xctest */,
-				FF28174C2934ECA6008FC765 /* StandupsUITests.xctest */,
+				FF2817732934F19E008FC765 /* Standups.app */,
+				FF2817832934F19F008FC765 /* StandupsTests.xctest */,
+				FF28178D2934F19F008FC765 /* StandupsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FF2817342934ECA5008FC765 /* Standups */ = {
+		FF2817752934F19E008FC765 /* Standups */ = {
 			isa = PBXGroup;
 			children = (
-				FF2817352934ECA5008FC765 /* StandupsApp.swift */,
-				FF2817392934ECA6008FC765 /* Assets.xcassets */,
-				FF28173B2934ECA6008FC765 /* Preview Content */,
+				FF2817762934F19E008FC765 /* StandupsApp.swift */,
+				FF2817782934F19E008FC765 /* ContentView.swift */,
+				FF28177A2934F19F008FC765 /* Assets.xcassets */,
+				FF28177C2934F19F008FC765 /* Preview Content */,
 			);
 			path = Standups;
 			sourceTree = "<group>";
 		};
-		FF28173B2934ECA6008FC765 /* Preview Content */ = {
+		FF28177C2934F19F008FC765 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				FF28173C2934ECA6008FC765 /* Preview Assets.xcassets */,
+				FF28177D2934F19F008FC765 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		FF2817452934ECA6008FC765 /* StandupsTests */ = {
+		FF2817862934F19F008FC765 /* StandupsTests */ = {
 			isa = PBXGroup;
 			children = (
-				FF2817462934ECA6008FC765 /* StandupsTests.swift */,
+				FF2817872934F19F008FC765 /* StandupsTests.swift */,
 			);
 			path = StandupsTests;
 			sourceTree = "<group>";
 		};
-		FF28174F2934ECA6008FC765 /* StandupsUITests */ = {
+		FF2817902934F19F008FC765 /* StandupsUITests */ = {
 			isa = PBXGroup;
 			children = (
-				FF2817502934ECA6008FC765 /* StandupsUITests.swift */,
-				FF2817522934ECA6008FC765 /* StandupsUITestsLaunchTests.swift */,
+				FF2817912934F19F008FC765 /* StandupsUITests.swift */,
+				FF2817932934F19F008FC765 /* StandupsUITestsLaunchTests.swift */,
 			);
 			path = StandupsUITests;
 			sourceTree = "<group>";
@@ -127,13 +130,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FF2817312934ECA5008FC765 /* Standups */ = {
+		FF2817722934F19E008FC765 /* Standups */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF2817562934ECA6008FC765 /* Build configuration list for PBXNativeTarget "Standups" */;
+			buildConfigurationList = FF2817972934F19F008FC765 /* Build configuration list for PBXNativeTarget "Standups" */;
 			buildPhases = (
-				FF28172E2934ECA5008FC765 /* Sources */,
-				FF28172F2934ECA5008FC765 /* Frameworks */,
-				FF2817302934ECA5008FC765 /* Resources */,
+				FF28176F2934F19E008FC765 /* Sources */,
+				FF2817702934F19E008FC765 /* Frameworks */,
+				FF2817712934F19E008FC765 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -141,69 +144,69 @@
 			);
 			name = Standups;
 			productName = Standups;
-			productReference = FF2817322934ECA5008FC765 /* Standups.app */;
+			productReference = FF2817732934F19E008FC765 /* Standups.app */;
 			productType = "com.apple.product-type.application";
 		};
-		FF2817412934ECA6008FC765 /* StandupsTests */ = {
+		FF2817822934F19F008FC765 /* StandupsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF2817592934ECA6008FC765 /* Build configuration list for PBXNativeTarget "StandupsTests" */;
+			buildConfigurationList = FF28179A2934F19F008FC765 /* Build configuration list for PBXNativeTarget "StandupsTests" */;
 			buildPhases = (
-				FF28173E2934ECA6008FC765 /* Sources */,
-				FF28173F2934ECA6008FC765 /* Frameworks */,
-				FF2817402934ECA6008FC765 /* Resources */,
+				FF28177F2934F19F008FC765 /* Sources */,
+				FF2817802934F19F008FC765 /* Frameworks */,
+				FF2817812934F19F008FC765 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FF2817442934ECA6008FC765 /* PBXTargetDependency */,
+				FF2817852934F19F008FC765 /* PBXTargetDependency */,
 			);
 			name = StandupsTests;
 			productName = StandupsTests;
-			productReference = FF2817422934ECA6008FC765 /* StandupsTests.xctest */;
+			productReference = FF2817832934F19F008FC765 /* StandupsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		FF28174B2934ECA6008FC765 /* StandupsUITests */ = {
+		FF28178C2934F19F008FC765 /* StandupsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF28175C2934ECA6008FC765 /* Build configuration list for PBXNativeTarget "StandupsUITests" */;
+			buildConfigurationList = FF28179D2934F19F008FC765 /* Build configuration list for PBXNativeTarget "StandupsUITests" */;
 			buildPhases = (
-				FF2817482934ECA6008FC765 /* Sources */,
-				FF2817492934ECA6008FC765 /* Frameworks */,
-				FF28174A2934ECA6008FC765 /* Resources */,
+				FF2817892934F19F008FC765 /* Sources */,
+				FF28178A2934F19F008FC765 /* Frameworks */,
+				FF28178B2934F19F008FC765 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FF28174E2934ECA6008FC765 /* PBXTargetDependency */,
+				FF28178F2934F19F008FC765 /* PBXTargetDependency */,
 			);
 			name = StandupsUITests;
 			productName = StandupsUITests;
-			productReference = FF28174C2934ECA6008FC765 /* StandupsUITests.xctest */;
+			productReference = FF28178D2934F19F008FC765 /* StandupsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FF28172A2934ECA5008FC765 /* Project object */ = {
+		FF28176B2934F19E008FC765 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1410;
 				LastUpgradeCheck = 1410;
 				TargetAttributes = {
-					FF2817312934ECA5008FC765 = {
+					FF2817722934F19E008FC765 = {
 						CreatedOnToolsVersion = 14.1;
 					};
-					FF2817412934ECA6008FC765 = {
+					FF2817822934F19F008FC765 = {
 						CreatedOnToolsVersion = 14.1;
-						TestTargetID = FF2817312934ECA5008FC765;
+						TestTargetID = FF2817722934F19E008FC765;
 					};
-					FF28174B2934ECA6008FC765 = {
+					FF28178C2934F19F008FC765 = {
 						CreatedOnToolsVersion = 14.1;
-						TestTargetID = FF2817312934ECA5008FC765;
+						TestTargetID = FF2817722934F19E008FC765;
 					};
 				};
 			};
-			buildConfigurationList = FF28172D2934ECA5008FC765 /* Build configuration list for PBXProject "Standups" */;
+			buildConfigurationList = FF28176E2934F19E008FC765 /* Build configuration list for PBXProject "Standups" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -211,36 +214,36 @@
 				en,
 				Base,
 			);
-			mainGroup = FF2817292934ECA5008FC765;
-			productRefGroup = FF2817332934ECA5008FC765 /* Products */;
+			mainGroup = FF28176A2934F19E008FC765;
+			productRefGroup = FF2817742934F19E008FC765 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FF2817312934ECA5008FC765 /* Standups */,
-				FF2817412934ECA6008FC765 /* StandupsTests */,
-				FF28174B2934ECA6008FC765 /* StandupsUITests */,
+				FF2817722934F19E008FC765 /* Standups */,
+				FF2817822934F19F008FC765 /* StandupsTests */,
+				FF28178C2934F19F008FC765 /* StandupsUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FF2817302934ECA5008FC765 /* Resources */ = {
+		FF2817712934F19E008FC765 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF28173D2934ECA6008FC765 /* Preview Assets.xcassets in Resources */,
-				FF28173A2934ECA6008FC765 /* Assets.xcassets in Resources */,
+				FF28177E2934F19F008FC765 /* Preview Assets.xcassets in Resources */,
+				FF28177B2934F19F008FC765 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF2817402934ECA6008FC765 /* Resources */ = {
+		FF2817812934F19F008FC765 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF28174A2934ECA6008FC765 /* Resources */ = {
+		FF28178B2934F19F008FC765 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -250,48 +253,49 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FF28172E2934ECA5008FC765 /* Sources */ = {
+		FF28176F2934F19E008FC765 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF2817362934ECA5008FC765 /* StandupsApp.swift in Sources */,
+				FF2817792934F19E008FC765 /* ContentView.swift in Sources */,
+				FF2817772934F19E008FC765 /* StandupsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF28173E2934ECA6008FC765 /* Sources */ = {
+		FF28177F2934F19F008FC765 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF2817472934ECA6008FC765 /* StandupsTests.swift in Sources */,
+				FF2817882934F19F008FC765 /* StandupsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF2817482934ECA6008FC765 /* Sources */ = {
+		FF2817892934F19F008FC765 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF2817532934ECA6008FC765 /* StandupsUITestsLaunchTests.swift in Sources */,
-				FF2817512934ECA6008FC765 /* StandupsUITests.swift in Sources */,
+				FF2817942934F19F008FC765 /* StandupsUITestsLaunchTests.swift in Sources */,
+				FF2817922934F19F008FC765 /* StandupsUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		FF2817442934ECA6008FC765 /* PBXTargetDependency */ = {
+		FF2817852934F19F008FC765 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FF2817312934ECA5008FC765 /* Standups */;
-			targetProxy = FF2817432934ECA6008FC765 /* PBXContainerItemProxy */;
+			target = FF2817722934F19E008FC765 /* Standups */;
+			targetProxy = FF2817842934F19F008FC765 /* PBXContainerItemProxy */;
 		};
-		FF28174E2934ECA6008FC765 /* PBXTargetDependency */ = {
+		FF28178F2934F19F008FC765 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FF2817312934ECA5008FC765 /* Standups */;
-			targetProxy = FF28174D2934ECA6008FC765 /* PBXContainerItemProxy */;
+			target = FF2817722934F19E008FC765 /* Standups */;
+			targetProxy = FF28178E2934F19F008FC765 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		FF2817542934ECA6008FC765 /* Debug */ = {
+		FF2817952934F19F008FC765 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -351,7 +355,7 @@
 			};
 			name = Debug;
 		};
-		FF2817552934ECA6008FC765 /* Release */ = {
+		FF2817962934F19F008FC765 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -405,7 +409,7 @@
 			};
 			name = Release;
 		};
-		FF2817572934ECA6008FC765 /* Debug */ = {
+		FF2817982934F19F008FC765 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -435,7 +439,7 @@
 			};
 			name = Debug;
 		};
-		FF2817582934ECA6008FC765 /* Release */ = {
+		FF2817992934F19F008FC765 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -465,7 +469,7 @@
 			};
 			name = Release;
 		};
-		FF28175A2934ECA6008FC765 /* Debug */ = {
+		FF28179B2934F19F008FC765 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -485,7 +489,7 @@
 			};
 			name = Debug;
 		};
-		FF28175B2934ECA6008FC765 /* Release */ = {
+		FF28179C2934F19F008FC765 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -505,7 +509,7 @@
 			};
 			name = Release;
 		};
-		FF28175D2934ECA6008FC765 /* Debug */ = {
+		FF28179E2934F19F008FC765 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -523,7 +527,7 @@
 			};
 			name = Debug;
 		};
-		FF28175E2934ECA6008FC765 /* Release */ = {
+		FF28179F2934F19F008FC765 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -544,43 +548,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FF28172D2934ECA5008FC765 /* Build configuration list for PBXProject "Standups" */ = {
+		FF28176E2934F19E008FC765 /* Build configuration list for PBXProject "Standups" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FF2817542934ECA6008FC765 /* Debug */,
-				FF2817552934ECA6008FC765 /* Release */,
+				FF2817952934F19F008FC765 /* Debug */,
+				FF2817962934F19F008FC765 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF2817562934ECA6008FC765 /* Build configuration list for PBXNativeTarget "Standups" */ = {
+		FF2817972934F19F008FC765 /* Build configuration list for PBXNativeTarget "Standups" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FF2817572934ECA6008FC765 /* Debug */,
-				FF2817582934ECA6008FC765 /* Release */,
+				FF2817982934F19F008FC765 /* Debug */,
+				FF2817992934F19F008FC765 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF2817592934ECA6008FC765 /* Build configuration list for PBXNativeTarget "StandupsTests" */ = {
+		FF28179A2934F19F008FC765 /* Build configuration list for PBXNativeTarget "StandupsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FF28175A2934ECA6008FC765 /* Debug */,
-				FF28175B2934ECA6008FC765 /* Release */,
+				FF28179B2934F19F008FC765 /* Debug */,
+				FF28179C2934F19F008FC765 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF28175C2934ECA6008FC765 /* Build configuration list for PBXNativeTarget "StandupsUITests" */ = {
+		FF28179D2934F19F008FC765 /* Build configuration list for PBXNativeTarget "StandupsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FF28175D2934ECA6008FC765 /* Debug */,
-				FF28175E2934ECA6008FC765 /* Release */,
+				FF28179E2934F19F008FC765 /* Debug */,
+				FF28179F2934F19F008FC765 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FF28172A2934ECA5008FC765 /* Project object */;
+	rootObject = FF28176B2934F19E008FC765 /* Project object */;
 }
