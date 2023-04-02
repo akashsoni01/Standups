@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "21414403-C8D3-4334-8901-C2958BDB6F46"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38BB01EF-363E-4856-8ACB-ECC2F84CBAE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Standups/Dependencies/SoundEffectClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "liveValue"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2CE0996-6110-4B99-B64A-4DE1E5FDF67B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Standups/RecordMeeting.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "task()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2CE0996-6110-4B99-B64A-4DE1E5FDF67B - a5750f852c33ad2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 (inout Swift.TaskGroup&lt;()&gt;) async -&gt; () in Standups.RecordMeetingModel.task() async -&gt; ()"
+                  moduleName = "Standups"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akashsoni/Documents/GitHub/standups-pointfree/Standups/RecordMeeting.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "E2CE0996-6110-4B99-B64A-4DE1E5FDF67B - 5aa60a2e054feb54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in closure #1 (inout Swift.TaskGroup&lt;()&gt;) async -&gt; () in Standups.RecordMeetingModel.task() async -&gt; ()"
+                  moduleName = "Standups"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akashsoni/Documents/GitHub/standups-pointfree/Standups/RecordMeeting.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "E2CE0996-6110-4B99-B64A-4DE1E5FDF67B - 5aa60a2e054feb54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in closure #1 (inout Swift.TaskGroup&lt;()&gt;) async -&gt; () in Standups.RecordMeetingModel.task() async -&gt; ()"
+                  moduleName = "Standups"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akashsoni/Documents/GitHub/standups-pointfree/Standups/RecordMeeting.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6502E0EB-A478-443E-A5E5-C36CC2782DB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Standups/RecordMeeting.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "task()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6502E0EB-A478-443E-A5E5-C36CC2782DB1 - 6b64d1de0a5749e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () async -&gt; () in closure #1 (inout Swift.TaskGroup&lt;()&gt;) async -&gt; () in Standups.RecordMeetingModel.task() async -&gt; ()"
+                  moduleName = "Standups"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akashsoni/Documents/GitHub/standups-pointfree/Standups/RecordMeeting.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6502E0EB-A478-443E-A5E5-C36CC2782DB1 - 3aecd4916605228c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 (inout Swift.TaskGroup&lt;()&gt;) async -&gt; () in Standups.RecordMeetingModel.task() async -&gt; ()"
+                  moduleName = "Standups"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akashsoni/Documents/GitHub/standups-pointfree/Standups/RecordMeeting.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6502E0EB-A478-443E-A5E5-C36CC2782DB1 - 6b64d1de0a5749e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () async -&gt; () in closure #1 (inout Swift.TaskGroup&lt;()&gt;) async -&gt; () in Standups.RecordMeetingModel.task() async -&gt; ()"
+                  moduleName = "Standups"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akashsoni/Documents/GitHub/standups-pointfree/Standups/RecordMeeting.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4D7E9DD-E3C4-4BD4-8846-9EE5DE844445"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Standups/RecordMeeting.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "379"
+            endingLineNumber = "379"
+            landmarkName = "previews"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
